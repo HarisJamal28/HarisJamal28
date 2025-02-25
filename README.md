@@ -9,12 +9,9 @@
 
 ```sh
   - Python
-  - C#
-  - C++
   - HTML/CSS/JS
-  - Dart
-  - Flutter
   - ReactJS
+  - React Native
 ```
 
 ```sh
@@ -23,8 +20,6 @@ tools:
   - Jupyter Notebooks
   - Git
   - GitHub
-  - Docker
-  - Postman
 ```
 
 ```sh
