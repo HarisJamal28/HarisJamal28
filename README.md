@@ -8,6 +8,7 @@
 ## Languages and Tools ⚙🌏
 
 ```sh
+languages:
   - Python
   - HTML/CSS/JS
   - ReactJS
