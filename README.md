@@ -32,9 +32,6 @@ OS:
 <table>
   <tr>
     <td>
-          GITHUB STREAK UNAVAILABLE
-    </td>
-    <td>
       <img src="https://github-readme-stats.vercel.app/api?username=harisjamal28&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
     </td>
   </tr>
