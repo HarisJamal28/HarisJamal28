@@ -7,9 +7,6 @@
 - ⚡ Fun fact: A lot of my work is just stuck on my laptop bcz i have a perfection tic and they almost never get uploaded bcz i have ADHD.
 
 [![GitHub followers](https://img.shields.io/github/followers/harisjamal28?label=Followers&logo=github&style=for-the-badge)](https://github.com/harisjamal28?tab=followers)
-[![Instagram](https://img.shields.io/badge/Instagram-@yourusername-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
-
-
 
 ## Languages and Tools ⚙🌏
 
