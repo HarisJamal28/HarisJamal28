@@ -19,28 +19,9 @@
 ![Python](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=306998)
 ![TypeScript](https://img.shields.io/badge/TypeScript-2F74C0?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=000000)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-
-```sh
-languages:
-  - Python
-  - HTML/CSS/JS
-  - ReactJS
-  - React Native
-```
-
-```sh
-tools:
-  - VSCode
-  - Jupyter Notebooks
-  - Git
-  - GitHub
-```
-
-```sh
-OS:
-  - Windows
-```
 
 ## 📊 GitHub Stats  
 
