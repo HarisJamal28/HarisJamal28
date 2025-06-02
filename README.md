@@ -7,7 +7,11 @@
 
 - ⚡ Fun fact: A lot of my work is just stuck on my laptop bcz i have a perfection tic and they almost never get uploaded bcz i have ADHD.
 
-[![GitHub followers](https://img.shields.io/github/followers/harisjamal28?label=Followers&logo=github&style=for-the-badge)](https://github.com/harisjamal28?tab=followers) <br> ![Profile Views](https://visitor-badge.glitch.me/badge?page_id=HarisJamal28&style=for-the-badge&logo=github)
+[![GitHub followers](https://img.shields.io/github/followers/harisjamal28?label=Followers&logo=github&style=for-the-badge)](https://github.com/harisjamal28?tab=followers) <br> [![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=HarisJamal28&style=for-the-badge&logo=github)](https://github.com/harisjamal28)
+
+
+
+
 
 
 
