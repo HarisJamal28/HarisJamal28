@@ -1,6 +1,5 @@
-[![Hi](https://img.shields.io/badge/%F0%9F%91%8B%20Hi-I'm%20@HarisJamal28-blue?style=for-the-badge)](https://github.com/HarisJamal28)
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"/> Hi, I’m @HarisJamal28
 
-- 👋 Hi, I’m @HarisJamal28
 - 👀 I’m interested in Books, Coding, Writing and everything Digital thats open to the creative mind's exploration.
 - 🌱 I’m currently learning PHP, MERN, React.JS, Vue.JS and Blender
 - 💞️ I’m looking to collaborate on a number of projects.
