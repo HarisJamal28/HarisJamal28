@@ -2,10 +2,8 @@
 - 👀 I’m interested in Books, Coding, Writing and everything Digital thats open to the creative mind's exploration.
 - 🌱 I’m currently learning PHP, MERN, React.JS, Vue.JS and Blender
 - 💞️ I’m looking to collaborate on a number of projects.
-- 📫 How to reach me: 
-[Instagram] @fml.haris, 
-[LinkednIn] www.linkedin.com/in/harisjamalkhan
-📫 Reach me at: [jamalharis282001@gmail.com](mailto:jamalharis282001@gmail.com)
+- 📫 How to reach me: [Instagram] @fml.haris, 
+[![Email](https://img.shields.io/badge/Email-jamalharis282001@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jamalharis282001@gmail.com)
 - ⚡ Fun fact: A lot of my work is just stuck on my laptop bcz i have a perfection tic and they almost never get uploaded bcz i have ADHD.
 
 [![GitHub followers](https://img.shields.io/github/followers/harisjamal28?label=Followers&logo=github&style=for-the-badge)](https://github.com/harisjamal28?tab=followers)
