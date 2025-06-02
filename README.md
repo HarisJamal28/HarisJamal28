@@ -8,7 +8,7 @@
 - 📧 Contact me at: jamalharis282001@gmail.com
 - ⚡ Fun fact: A lot of my work is just stuck on my laptop bcz i have a perfection tic and they almost never get uploaded bcz i have ADHD.
 
-  ![GitHub followers](https://img.shields.io/github/followers/harisjamal28?label=Followers&style=for-the-badge)
+[![GitHub followers](https://img.shields.io/github/followers/harisjamal28?label=Followers&logo=github&style=for-the-badge)](https://github.com/harisjamal28?tab=followers)
 
 
 ## Languages and Tools ⚙🌏
