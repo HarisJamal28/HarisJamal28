@@ -22,12 +22,6 @@
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=000000)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-## What I think my Top Repositories are:
-![Top Repo](https://img.shields.io/badge/My%20Top%20Repo-React_Gadgets-blue?style=for-the-badge&logo=github&logoColor=white)
-![Top Repo](https://img.shields.io/badge/Featured-FullStack_Chatbot-brightgreen?style=for-the-badge&logo=github&logoColor=white)
-![Top Repo](https://img.shields.io/badge/Favorite-Homescapes-orange?style=for-the-badge&logo=github&logoColor=white)
-
-
 ## 📊 GitHub Stats  
 
 <table>
