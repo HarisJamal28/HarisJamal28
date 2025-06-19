@@ -3,11 +3,16 @@
 - 👀 I’m interested in Books, Coding, Writing and everything Digital thats open to the creative mind's exploration.
 - 🌱 I’m currently learning PHP, MERN, React.JS, Vue.JS and Blender
 - 💞️ I’m looking to collaborate on a number of projects.
-- 📫 How to reach me: [Instagram] @fml.haris, 
+- 📫 How to reach me:  [Instagram](https://instagram.com/fml.haris) • [LinkedIn](https://www.linkedin.com/in/harisjamalkhan) • [WhatsApp](https://api.whatsapp.com/send?phone=923115793730)
+
 
 - ⚡ Fun fact: A lot of my work is just stuck on my laptop bcz i have a perfection tic and they almost never get uploaded bcz i have ADHD.
 
-[![GitHub followers](https://img.shields.io/github/followers/harisjamal28?label=Followers&logo=github&style=for-the-badge)](https://github.com/harisjamal28?tab=followers) <br> [![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=HarisJamal28&style=for-the-badge&logo=github)](https://github.com/harisjamal28)
+[![GitHub followers](https://img.shields.io/github/followers/harisjamal28?label=Followers&logo=github&style=for-the-badge)](https://github.com/harisjamal28?tab=followers)
+
+![Profile Views](https://profile-counter.glitch.me/HarisJamal28/count.svg)
+
+
 
 
 
@@ -36,7 +41,25 @@
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=harisjamal28&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
     </td>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight&hide_border=true" /></a>
+    </td>
   </tr>
 </table>
+
+#### Top Repositories
+
+<a href="https://github.com/HarisJamal28/BloggingWebsite">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarisJamal28&repo=BloggingWebsite&theme=tokyonight" />
+</a>
+<a href="https://github.com/HarisJamal28/WorkoutWebsite">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarisJamal28&repo=WorkoutWebsite&theme=tokyonight" />
+</a>
+<a href="https://github.com/HarisJamal28/ECommerce_Bookshop">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarisJamal28&repo=ECommerce_Bookshop&theme=tokyonight" />
+</a>
+<a href="https://github.com/HarisJamal28/Restaurant_Website">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarisJamal28&repo=Restaurant_Website&theme=tokyonight" />
+</a>
 
 
