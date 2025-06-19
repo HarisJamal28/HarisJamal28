@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning PHP, MERN, React.JS, Vue.JS and Blender
 - 💞️ I’m looking to collaborate on a number of projects.
 - 📫 How to reach me:  [Instagram](https://instagram.com/fml.haris) • [LinkedIn](https://www.linkedin.com/in/harisjamalkhan) • [WhatsApp](https://api.whatsapp.com/send?phone=923115793730)
+- 💲 For Freelance Work You can [Email](mailto:jamalharis282001@gmail.com) me!
 
 
 - ⚡ Fun fact: A lot of my work is just stuck on my laptop bcz i have a perfection tic and they almost never get uploaded bcz i have ADHD.
@@ -11,14 +12,6 @@
 [![GitHub followers](https://img.shields.io/github/followers/harisjamal28?label=Followers&logo=github&style=for-the-badge)](https://github.com/harisjamal28?tab=followers)
 
 ![Profile Views](https://profile-counter.glitch.me/HarisJamal28/count.svg)
-
-
-
-
-
-
-
-
 
 ## Languages and Tools ⚙🌏
 
@@ -61,5 +54,18 @@
 <a href="https://github.com/HarisJamal28/Restaurant_Website">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarisJamal28&repo=Restaurant_Website&theme=tokyonight" />
 </a>
+
+
+### Keeping Up With my GoodReads
+
+📚 [Check out my Goodreads shelf](https://www.goodreads.com/review/list/94980338-haris-jamal-khan?shelf=read)
+
+[![Goodreads](https://img.shields.io/badge/Goodreads-Visit%20My%20Bookshelf-372213?style=for-the-badge&logo=goodreads&logoColor=white)](https://www.goodreads.com/review/list/94980338-haris-jamal-khan?shelf=read)
+
+
+
+
+
+
 
 
